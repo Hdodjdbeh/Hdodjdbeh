@@ -1,7 +1,15 @@
 ## Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/4W5DaZJ60BCyDnzRD7/giphy.gif?cid=ecf05e47oo9xdzhmqfqokphlhuxfgv5hfhw3r323su7igdxn&ep=v1_gifs_search&rid=giphy.gif" width="600"/>
-</div> 
+<div id="badges">
+  <a href="https://t.me/kalkaksr">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/chrismarel">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/salizink">
+    <img src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</div>
 <!--
 **Hdodjdbeh/Hdodjdbeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
