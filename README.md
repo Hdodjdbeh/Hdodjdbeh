@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
-### :woman_technologist: About Me :
+--- :man_technologist: About Me :
 
 
 <!--
