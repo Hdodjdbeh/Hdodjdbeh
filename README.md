@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJvYnVsMDEweTBzcjQxc3h5aWQwZm10c2NiZnE2bG9mN3o3NXpmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xn7RjEY3qql5EusAWv/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJvYnVsMDEweTBzcjQxc3h5aWQwZm10c2NiZnE2bG9mN3o3NXpmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xn7RjEY3qql5EusAWv/giphy.gif" width="600"/>
 </div> 
 <!--
 **Hdodjdbeh/Hdodjdbeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
