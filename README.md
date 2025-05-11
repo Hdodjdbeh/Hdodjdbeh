@@ -19,7 +19,7 @@ I am a Data Science engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :seedling: Sometimes I take part in hackathons and competitions on kaggle.
 
-- :zap: In my free time, I explore web applications for ML products.
+- :zap: In my free time, I explore web applications for ML products and research work with LLM's(RAG, fine-tuning)
 
 ---
 
